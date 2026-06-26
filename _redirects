@@ -1,0 +1,2 @@
+# Redirect www to root
+https://www.hemsconstruction.co.uk/* https://hemsconstruction.co.uk/:splat 301
